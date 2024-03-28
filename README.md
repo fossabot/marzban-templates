@@ -1,4 +1,6 @@
 # Marzban Templates
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhamedefatian%2Fmarzban-templates.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhamedefatian%2Fmarzban-templates?ref=badge_shield)
+
 Group of [Marzban](https://github.com/Gozargah/Marzban) Subscription Page templates
 
 # Usage
@@ -10,6 +12,9 @@ First template: [template-01](https://github.com/MuhammadAshouri/marzban-templat
 # License
 
 Made in [Unknown!] and Published under [AGPL-3.0](./LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhamedefatian%2Fmarzban-templates.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhamedefatian%2Fmarzban-templates?ref=badge_large)
 
 # Contributors
 
